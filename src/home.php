@@ -1,4 +1,7 @@
-<?php include_once('includes/header.php'); ?>
+<?php
+  $page_title = 'Home';
+  include_once('includes/header.php');
+?>
 
         <h1>Ryan Boone</h1>
 
@@ -7,8 +10,8 @@
           <img src="img/placeholder.png" alt="Photo of Ryan Boone">
           <h2>Hello.</h2>
           <p class="entry__subheading">My name is Ryan. I love to <span class="js-d-text" data-text="create learn explore play-guitar watch-old-movies design eat-BBQ">create</span>.</p>
-          <p>I'm a multi-disciplinary designer and developer based in Fort Worth, TX… Feel free to <a href="#">check out some of the work I've done</a>, <a href="#">read something I've written</a>, or <a href="#">find out more about me</a>. </p>
-          <p><a class="btn" href="#contact">Get in touch</a></p>
+          <p>I'm a multi-disciplinary designer and developer based in Fort Worth, TX… Feel free to <a href="#">check out some of the work I've done</a>, <a href="#">read something I've written</a>, or <a href="#">find out more about me</a>.</p>
+          <p><a class="btn" href="about.php#contact">Get in touch</a></p>
         </section>
 
         <!-- Work -->

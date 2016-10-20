@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
-  <title>About</title>
+  <title>Ryan Boone | <?php echo $page_title ?></title>
 
   <style type="text/css">
 
@@ -36,10 +36,10 @@
                 <a href="#">Reading</a>
               </li>
               <li>
-                <a href="#">About</a>
+                <a href="about.php">About</a>
               </li>
               <li>
-                <a href="#">Contact</a>
+                <a href="about.php#contact">Contact</a>
               </li>
             </ul>
           </div>

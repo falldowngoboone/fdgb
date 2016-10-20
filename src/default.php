@@ -1,6 +1,9 @@
-<?php include_once('includes/header.php'); ?>
+<?php
+  $page_title = 'Default';
+  include_once('includes/header.php');
+?>
 
-        <article id="post-199" class="post-199 post type-post status-publish format-standard hentry category-design">
+        <article class="entry">
 
           <header class="entry__header">
             <h1 class="entry__title">Why Designers Should Learn to Program</h1>

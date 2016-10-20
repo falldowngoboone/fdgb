@@ -12,6 +12,7 @@
 </head>
 
 <body>
+  <h1>Templates</h1>
   <ul>
     <li><a href="home.php">Home Template</a></li>
     <li><a href="default.php">Default Template</a></li>
