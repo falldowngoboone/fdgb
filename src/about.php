@@ -1,4 +1,22 @@
-<?php include_once('includes/header.php'); ?>
+<?php
+  $page_title = 'About';
+  include_once('includes/header.php');
+?>
+
+        <h1>About</h1>
+
+        <!-- Bio -->
+        <section id="bio">
+          <img src="img/placeholder.png" alt="Photo of Ryan Boone">
+          <h2>Hello.</h2>
+          <p class="entry__subheading">My name is Ryan. I love to <span class="js-d-text" data-text="create learn explore play-guitar watch-old-movies design eat-BBQ">create</span>.</p>
+          <p>I'm a multi-disciplinary designer and developer based in Fort Worth, TX…. (expanded bio)</p>
+          <p><a class="btn" href="about.php#contact">Get in touch</a></p>
+        </section>
+
+        <section id="skills"></section>
+        <section id="experience"></section>
+        <section id="accomplishments"></section>
 
         <!-- Contact -->
         <section id="contact">
